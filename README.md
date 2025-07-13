@@ -38,25 +38,21 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 <br/>
 
-<h2 align="center">🎧 Supported Sources</h2>
+## 🎧 Supported Sources
 
-<div style="text-align: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: 600; line-height: 2;">
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="24" style="vertical-align:middle;" />
+  <strong style="margin-left: 8px;">Spotify</strong>
+</p>
 
-  <div style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="Spotify" width="28" style="vertical-align: middle; margin-right: 8px;" />
-    Spotify
-  </div>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="24" style="vertical-align:middle;" />
+  <strong style="margin-left: 8px;">YouTube</strong>
+</p>
 
-  <div style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="28" style="vertical-align: middle; margin-right: 8px;" />
-    YouTube
-  </div>
-
-  <div style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" alt="YouTube Music" width="28" style="vertical-align: middle; margin-right: 8px;" />
-    YouTube Music
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" width="24" style="vertical-align:middle;" />
+  <strong style="margin-left: 8px;">YouTube Music</strong>
+</p>
 
 
