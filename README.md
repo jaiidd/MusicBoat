@@ -55,7 +55,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
       <strong style="font-size: 18px;">YouTube Music</strong>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670227.png" width="50" alt="SoundCloud" /><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" width="50" alt="SoundCloud" /><br/>
       <strong style="font-size: 18px;">SoundCloud</strong>
     </td>
   </tr>
