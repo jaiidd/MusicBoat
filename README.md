@@ -40,21 +40,32 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 ## 🎧 Supported Sources
 
-<p align="center" style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">
-
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  Spotify
-</p>
-
-<p align="center" style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  YouTube
-</p>
-
-<p align="center" style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  YouTube Music
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="50" alt="Spotify" /><br/>
+      <strong style="font-size: 18px;">Spotify</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube" /><br/>
+      <strong style="font-size: 18px;">YouTube</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" width="50" alt="YouTube Music" /><br/>
+      <strong style="font-size: 18px;">YouTube Music</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="50" alt="SoundCloud" /><br/>
+      <strong style="font-size: 18px;">SoundCloud</strong>
+    </td>
+  </tr>
+</table>
 
 
 
