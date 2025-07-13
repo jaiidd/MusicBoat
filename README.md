@@ -45,21 +45,19 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="50" alt="Spotify" /><br/>
       <strong style="font-size: 18px;">Spotify</strong>
-  </tr>
-  <tr>
+    </td>
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube" /><br/>
       <strong style="font-size: 18px;">YouTube</strong>
-  </tr>
-  <tr>
+    </td>
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" width="50" alt="YouTube Music" /><br/>
       <strong style="font-size: 18px;">YouTube Music</strong>
-  </tr>
-  <tr>
+    </td>
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="50" alt="SoundCloud" /><br/>
       <strong style="font-size: 18px;">SoundCloud</strong>
+    </td>
   </tr>
 </table>
 
