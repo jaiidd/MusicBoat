@@ -36,3 +36,13 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
   </a>
 </div>
 
+<br/>
+
+## 🎧 Supported Sources
+
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="Spotify" width="40" style="margin: 0 15px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" style="margin: 0 15px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" alt="YouTube Music" width="40" style="margin: 0 15px;" />
+  <p><strong>Spotify</strong> • <strong>YouTube</strong> • <strong>YouTube Music</strong></p>
+</div>
