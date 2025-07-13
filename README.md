@@ -40,18 +40,22 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 ## 🎧 Supported Sources
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40" alt="Spotify" /><br/>
-  <strong>Spotify</strong>
-</p>
+<div align="center" style="font-family: Arial, sans-serif; font-size: 18px; font-weight: 600; line-height: 1.6;">
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube" /><br/>
-  <strong>YouTube</strong>
-</p>
+  <div style="margin: 20px 0;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="Spotify Logo" width="48" /><br/>
+    Spotify
+  </div>
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" width="40" alt="YouTube Music" /><br/>
-  <strong>YouTube Music</strong>
-</p>
+  <div style="margin: 20px 0;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube Logo" width="48" /><br/>
+    YouTube
+  </div>
+
+  <div style="margin: 20px 0;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968985.png" alt="YouTube Music Logo" width="48" /><br/>
+    YouTube Music
+  </div>
+
+</div>
 
