@@ -42,7 +42,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 <p align="center">
   <a href="https://github.com/jaiidd/MusicBoat/blob/main/versions/3.5.5.md#update-355-072725">
-    <strong>View 3.5.5</strong>
+    <strong>Version 3.5.5 | Released On July 27, 2025 </strong>
   </a>
 </p>
 
