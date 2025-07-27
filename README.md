@@ -37,6 +37,18 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 </div>
 
 <br/>
+## Latest Version
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <a href="./versions/3.5.5/">
+        <img src="./images/MusicBoat" width="50" alt="3.5.5" /><br/>
+        <strong style="font-size: 18px;">View 3.5.5</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🎧 Supported Sources
 
