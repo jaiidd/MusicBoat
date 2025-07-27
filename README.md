@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MusicBoat&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Elaris&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
 </p>
 
-# 📜 ElarisTerms & Privacy Policy
+# 📜 Elaris Terms & Privacy Policy
 
 Welcome, and thank you for using **[Elaris](https://discord.com/oauth2/authorize?client_id=1376612318619766814&permissions=3533840&integration_type=0&scope=applications.commands+bot)**!
 
