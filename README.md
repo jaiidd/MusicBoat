@@ -38,33 +38,15 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 <br/>
 
-## Latest Version
+## 📦 Latest Version
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 30px 0;
-">
-  <a href="./versions/3.5.5/"
-     style="
-       text-align: center;
-       text-decoration: none;
-       color: inherit;
-       border: 1px solid #e1e4e8;
-       padding: 20px;
-       border-radius: 12px;
-       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-       transition: transform 0.2s, box-shadow 0.2s;
-       background-color: #ffffff;
-       width: 160px;
-     "
-     onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.12)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.08)'">
-    <img src="./images/MusicBoat.png" width="60" alt="3.5.5" style="margin-bottom: 12px;" />
-    <div style="font-size: 18px; font-weight: 600;">View 3.5.5</div>
+<p align="center">
+  <a href="./versions/3.5.5/">
+    <img src="./images/MusicBoat.png" width="60" alt="3.5.5"/><br/>
+    <strong>View 3.5.5</strong>
   </a>
-</div>
+</p>
+
 
 
 ## 🎧 Supported Sources
