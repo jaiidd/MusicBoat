@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MusicBoat&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
 </p>
 
-# 📜 Sora Terms & Privacy Policy
+# 📜 ElarisTerms & Privacy Policy
 
-Welcome, and thank you for using **[MusicBoat](https://discord.com/oauth2/authorize?client_id=1376612318619766814&permissions=3533840&integration_type=0&scope=applications.commands+bot)**!
+Welcome, and thank you for using **[Elaris](https://discord.com/oauth2/authorize?client_id=1376612318619766814&permissions=3533840&integration_type=0&scope=applications.commands+bot)**!
 
 Please take a moment to review our **Privacy Policy** and **Terms of Service**. We want to be transparent about the limited data we access, how it's used, and your rights as a user.
 
 <br/>
 
 <div align="center">
-  <img src="/images/musicboat.png" alt="MusicBoat" width="280" />
+  <img src="/images/elaris.png" alt="Elaris" width="280" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
        cursor: pointer;
      "
   >
-    ➕ Invite MusicBoat
+    ➕ Invite Elaris
   </a>
 </div>
 
