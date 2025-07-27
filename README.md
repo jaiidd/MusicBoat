@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Elaris&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MusicBoat&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
 </p>
 
 # 📜 MusicBoat♪♪ Terms & Privacy Policy
