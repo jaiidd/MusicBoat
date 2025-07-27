@@ -37,6 +37,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 </div>
 
 <br/>
+
 ## Latest Version
 
 <table align="center">
