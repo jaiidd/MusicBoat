@@ -41,7 +41,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## 📦 Latest Version
 
 <p align="center">
-  <a href="./versions/3.5.5/">
+  <a href="https://github.com/jaiidd/MusicBoat/blob/main/versions/3.5.5.md#update-355-072725">
     <img src="./images/MusicBoat.png" width="60" alt="3.5.5"/><br/>
     <strong>View 3.5.5</strong>
   </a>
