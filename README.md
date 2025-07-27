@@ -40,16 +40,12 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 ## Latest Version
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <a href="./versions/3.5.5/">
-        <img src="./images/MusicBoat.png" width="50" alt="3.5.5" /><br/>
-        <strong style="font-size: 18px;">View 3.5.5</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="./versions/3.5.5/" style="text-decoration: none; color: inherit;">
+    <img src="./images/MusicBoat.png" width="50" alt="3.5.5" style="margin-bottom: 10px;" />
+    <div style="font-size: 18px; font-weight: bold;">View 3.5.5</div>
+  </a>
+</div>
 
 ## 🎧 Supported Sources
 
