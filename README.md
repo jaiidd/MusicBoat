@@ -54,7 +54,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
   <tr>
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="50" alt="Spotify" /><br/>
-      <strong style="font-size: 18px;">Spotify (Main)</strong>
+      <strong style="font-size: 18px;">Spotify</strong>
     </td>
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube" /><br/>
