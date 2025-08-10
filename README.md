@@ -41,8 +41,8 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## 📦 Latest Version
 
 <p align="center">
-  <a href="https://github.com/jaiidd/MusicBoat/blob/main/versions/3.5.6.md#update-356-080225">
-    <strong>Version 3.5.6 • Released on August 2, 2025</strong>
+  <a href="https://github.com/jaiidd/MusicBoat/blob/main/versions/3.5.7.md#update-357-080925">
+    <strong>Version 3.5.7 • Released on August 9, 2025</strong>
   </a>
 </p>
 
