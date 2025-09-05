@@ -68,7 +68,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
       <strong style="font-size: 18px;">SoundCloud</strong>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968880.png" width="50" alt="Deezer" /><br/>
+      <img src="https://brandlogo.org/wp-content/uploads/2024/05/Deezer-Logo-Icon.png.webp" width="50" alt="Deezer" /><br/>
       <strong style="font-size: 18px;">Deezer</strong>
     </td>
   </tr>
