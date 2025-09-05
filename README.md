@@ -49,7 +49,6 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 
 ## 🎧 Supported Sources
-
 <table align="center">
   <tr>
     <td align="center" style="padding: 15px;">
@@ -67,6 +66,10 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
     <td align="center" style="padding: 15px;">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" width="50" alt="SoundCloud" /><br/>
       <strong style="font-size: 18px;">SoundCloud</strong>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968880.png" width="50" alt="Deezer" /><br/>
+      <strong style="font-size: 18px;">Deezer</strong>
     </td>
   </tr>
 </table>
