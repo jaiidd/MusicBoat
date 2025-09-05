@@ -71,6 +71,10 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
       <img src="https://brandlogo.org/wp-content/uploads/2024/05/Deezer-Logo-Icon.png.webp" width="50" alt="Deezer" /><br/>
       <strong style="font-size: 18px;">Deezer</strong>
     </td>
+    <td align="center" style="padding: 15px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzN5mWHASV9zSw1CmI93l09fJHTSn1R7StYg&s" width="50" alt="Apple Music" /><br/>
+      <strong style="font-size: 18px;">Deezer</strong>
+    </td>
   </tr>
 </table>
 
